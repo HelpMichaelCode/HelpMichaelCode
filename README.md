@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HelpMichaelCode
+- 👀 I’m interested in automating things and cut out manual steps!
+- 🌱 I’m currently learning automation with python
+- 📫 How to reach me -> **Email:** michaelsantos288@yahoo.com | **LinkedIn:** Michael Santos
