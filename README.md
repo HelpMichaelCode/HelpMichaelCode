@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @HelpMichaelCode
-- 👀 I’m interested in automating things and cut out manual steps!
-- 🌱 I’m currently learning automation with python
-- 📫 How to reach me -> **Email:** michaelsantos288@yahoo.com | **LinkedIn:** Michael Santos
+Experienced IT professional with a history of technical support and IT system optimization. Proficient in diagnosing and resolving technical issues, managing user accounts, and providing exemplary customer service. Known for being an effective communicator and a collaborative team player, excelling in problem-solving and enhancing user experiences.
